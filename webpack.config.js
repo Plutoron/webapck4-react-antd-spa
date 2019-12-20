@@ -8,7 +8,7 @@ const { CleanWebpackPlugin } = require('clean-webpack-plugin') // 删除 旧的�
 const safeParser = require('postcss-safe-parser') // 添加前缀的规则
 
 const HOST = '127.0.0.1'
-const PORT = '8081'
+const PORT = '8080'
 
 module.exports = (env, argv) => {
   const { 
