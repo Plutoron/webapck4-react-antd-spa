@@ -11,9 +11,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "qrcode.react": "1.0.0"
-  },
   "devDependencies": {
     "@babel/core": "7.6.3",
     "@babel/plugin-proposal-class-properties": "7.5.5",
